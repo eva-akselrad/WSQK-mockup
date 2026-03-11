@@ -1,4 +1,4 @@
-# WSQK 102.5 FM - The Voice of Hawkins
+# Sadly the WSQK radio has been taken down as of today so this site will not play audio it may work if you change the link but as of right now it just looks nice WSQK 102.5 FM - The Voice of Hawkins
 
 A retro-styled web mockup of WSQK FM, the fictional radio station from Hawkins, Indiana (circa 1983).
 
